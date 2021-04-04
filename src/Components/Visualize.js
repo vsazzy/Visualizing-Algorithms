@@ -124,7 +124,7 @@ export default class PathfindingVisualizer extends Component {
             );
           })}
         </div>
-        <p>Designed by <b>Yash Verma</b></p>
+        <p>Designed by <b>Yash {Verma/Gautam}</b></p>
       </>
     );
   }
